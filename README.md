@@ -1,0 +1,2 @@
+# Cyber-Security-Cryptographic-Correlation-Power-Analysis
+This project is about performing a power-side channel attack over a practical implementation of a cryptographic algorithm.  My team attempted to recover the secret key used for the cryptographic algorithm from the collected power measurements. We specifically use a technique called Correlation Power Analysis (CPA) to recover the secret key.
